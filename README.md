@@ -1,0 +1,2 @@
+# quantumult_X
+resource
